@@ -1,0 +1,19 @@
+{
+  "name": "databasemanagementsystem",
+  "version": "1.0.0",
+  "description": "database system to manage updates",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sachinchouksey017/databaseManagementSystem.git"
+  },
+  "author": "sachin chouksey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sachinchouksey017/databaseManagementSystem/issues"
+  },
+  "homepage": "https://github.com/sachinchouksey017/databaseManagementSystem#readme"
+}
