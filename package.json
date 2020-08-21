@@ -4,7 +4,8 @@
   "description": "database system to manage updates",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "angular-http-server -p 9000 --open"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/sachinchouksey017/databaseManagementSystem/issues"
   },
-  "homepage": "https://github.com/sachinchouksey017/databaseManagementSystem#readme"
+  "homepage": "https://github.com/sachinchouksey017/databaseManagementSystem#readme",
+  "dependencies": {
+    "@uirouter/angularjs": "^1.0.19",
+    "angular": "^1.8.0",
+    "angular-http-server": "^1.9.0"
+  }
 }
